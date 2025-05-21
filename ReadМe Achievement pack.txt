@@ -1,0 +1,58 @@
+		The Elder Scrolls III MorrowinD
+--------------------------------------------------------------
+Achievement pack for Morrowind
+--------------------------------------------------------------
+Version 1.0
+Scripting: Pirate
+Icons and Achievements from OMW Achievements: Skooma Lover.
+Some icons loaded from https://games-icons.net under CC BY 3.0 license.
+Acknowledgments:
+Skooma Lover for The OMW Achievements
+Safebox for The Achievement Framework.
+--------------------------------------------------------------
+			Description:
+This is a small mod - integration, adds 16 achievements for Morrowind based on 'The Achievement Framework'.
+- 13 achievements from the OMW Achievements mod.
+- 3 new achievements by Pirate.
+- This mod uses the i18n library, includes English and Russian languages.
+
+Can be connected before or after completing quests. If connected after completion, achievements will unlock upon loading a save.
+It is recommended that you have The Achievement Framework set to "Mod Authors Choice" for the option about hiding secret achievements.
+
+List of new achievements at the end of the file.
+--------------------------------------------------------------
+			Requirements:
+Morrowind
+Tribunal
+Bloodmoon
+Morrowind Code Patch
+MGE XE 0.17.0 + (Run MWSE-update.exe)
+The Achievement Framework
+
+Recommended for use with the Morrowind Achievement Collection.
+--------------------------------------------------------------
+			Installation:
+Copy the "Data Files" to your game folder or use a mod manager.
+----------------------------------------------------------------
+			Changelogs:
+Version 1.0
+- Initial Release.
+----------------------------------------------------------------
+			Achievement list
+----------------------------------------------------------------
+Extra-Comfy Pillow - Become the owner of the unique pillow Drarayne Thelas.
+Nice to Meet You, Charles - Harvest from the unique plant named Charles.
+M'aiq Knows Much, and Tells Some - Meet M'aiq the Liar.
+Web of Mephala - Return all artifacts of Threads of the Webspinner.
+36 Lessons - Read all 36 Lessons of Vivec.
+Still a Stranger - Spend a year in-game.
+Who Do You Call Dumb Now? - Reach 100 Intelligence as an Orc.
+Not that kind of Thu'um - Reach 100 Speechcraft as a Nord.
+N'wah and Proud Of It - Become the Nerevarine as Khajiit or Argonian.
+Echo from the Past - Enter all 88 Ancestral Tombs in Vvardenfell.
+Conqueror of the Deep - Enter all 43 Mines in Vvardenfell.
+Dunmer Strongholds - Enter all 11 Dunmer Strongholds in Vvardenfell.
+Straight from Oblivion - Collect and equip a full suit of Daedric armor.
+Light as a Feather - Collect and equip a full suit of Glass armor.
+Aedra Material - Collect and equip a full suit of Adamantium armor.
+The Miserly knight - Accumulate a million gold coins.
