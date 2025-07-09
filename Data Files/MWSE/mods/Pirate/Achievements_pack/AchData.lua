@@ -288,7 +288,6 @@ function aData.countDunmerStr(e)
         myData["dunmerStrCount"] = myData["dunmerStrCount"] + 1
         mwse.log("[Achievement pack] Dunmer Stronghold cell: " .. e.cell.editorName:lower() .. ". Total cel: " .. myData["dunmerStrCount"] .. "\\30")
     else
-        mwse.log("[Achievement pack] Cell: " .. e.cell.editorName)
         return
     end
 end

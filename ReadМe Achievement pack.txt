@@ -2,7 +2,7 @@
 --------------------------------------------------------------
 Achievement pack for Morrowind
 --------------------------------------------------------------
-Version 1.0
+Version 1.1
 Scripting: Pirate
 Icons and Achievements from OMW Achievements: Skooma Lover.
 Some icons loaded from https://games-icons.net under CC BY 3.0 license.
@@ -35,6 +35,9 @@ Recommended for use with the Morrowind Achievement Collection.
 Copy the "Data Files" to your game folder or use a mod manager.
 ----------------------------------------------------------------
 			Changelogs:
+Version 1.1
+- Removed the cell name output to the log, to reduce the entries in mwse.log.
+
 Version 1.0
 - Initial Release.
 ----------------------------------------------------------------
